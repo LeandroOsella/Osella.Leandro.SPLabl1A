@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1655557957 source:c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1655556839 c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\input.h
+
+1656507343 source:c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656507343 c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\linkedlist.h
+
+1656506640 source:c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+	"input.h"
+
+1656506680 c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\menu.h
+
+1656510190 source:c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"input.h"
+	"menu.h"
+	"controller.h"
+	"movie.h"
+
+1656506756 source:c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"controller.h"
+	"movie.h"
+	"parser.h"
+
+1656506668 c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\controller.h
+	"LinkedList.h"
+
+1656509576 c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\movie.h
+	"LinkedList.h"
+
+1656506704 c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\parser.h
+	"LinkedList.h"
+
+1656506762 source:c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"parser.h"
+	"movie.h"
+
+1656509569 source:c:\users\leaos\onedrive\escritorio\programacion\segundoparciallabo\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"movie.h"
+	"LinkedList.h"
+	"input.h"
+
